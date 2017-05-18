@@ -1,0 +1,6 @@
+int32 link1_count
+int32 link1_period
+int32 link1_dutycycle
+float64 link1_position
+float64 link1_speed
+float64 link1_accel

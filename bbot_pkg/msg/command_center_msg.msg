@@ -1,0 +1,6 @@
+float64 command_center_time
+int32 command_center_j1_dutycycle
+int32 command_center_j1_direction
+int32 command_center_j2_dutycycle
+int32 command_center_j2_direction
+int32 command_center_release
